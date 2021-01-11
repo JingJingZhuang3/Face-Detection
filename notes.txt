@@ -1,0 +1,6 @@
+Model_Files contains:
+- [dataset] is the dataset that we use, 
+- [600,500.json] is a trained classifier json file.
+- [result_image] where result images can be found.
+
+The test images we used to test face detection are from piazza resource [test_images.zip]
